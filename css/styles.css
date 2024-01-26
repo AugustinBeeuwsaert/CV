@@ -126,6 +126,7 @@
 
 .rounded-circle {
   border-radius: 50% !important;
+  margin-bottom: 15px;
 }
 
 
@@ -154,7 +155,6 @@
   height:max-content;
   margin-top: -50px;
   width: 90%;
-  padding-top: 50px;
 }
 
 a:link{
